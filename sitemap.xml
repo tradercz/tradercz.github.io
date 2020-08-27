@@ -417,14 +417,14 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/jiaoyixinli/</loc>
+    <loc>https://01btc.com/tags/shaizhaibi/</loc>
     <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/shaizhaibi/</loc>
+    <loc>https://01btc.com/tags/jiaoyixinli/</loc>
     <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -578,13 +578,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/shundanixiao/</loc>
-    <lastmod>2020-08-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/maodingxiaoying/</loc>
     <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
@@ -606,6 +599,13 @@
   </url>
   
   <url>
+    <loc>https://01btc.com/tags/shundanixiao/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://01btc.com/tags/LINK/</loc>
     <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
@@ -614,27 +614,6 @@
   
   <url>
     <loc>https://01btc.com/tags/Zeus-Capital/</loc>
-    <lastmod>2020-08-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/ziwoguiyinpiancha/</loc>
-    <lastmod>2020-08-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/kongzhihuanjue/</loc>
-    <lastmod>2020-08-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/zhengshipiancha/</loc>
     <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -662,7 +641,21 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/ETH/</loc>
+    <loc>https://01btc.com/tags/ziwoguiyinpiancha/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/kongzhihuanjue/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/zhengshipiancha/</loc>
     <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -676,7 +669,7 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/CME/</loc>
+    <loc>https://01btc.com/tags/ETH/</loc>
     <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -697,6 +690,13 @@
   </url>
   
   <url>
+    <loc>https://01btc.com/tags/CME/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://01btc.com/tags/meilianchu/</loc>
     <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
@@ -704,14 +704,14 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/qianlibi/</loc>
+    <loc>https://01btc.com/tags/duanxianjiaoyi/</loc>
     <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/duanxianjiaoyi/</loc>
+    <loc>https://01btc.com/tags/qianlibi/</loc>
     <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
