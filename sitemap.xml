@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://01btc.com/posts/14169.html</loc>
+    
+    <lastmod>2020-11-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://01btc.com/posts/21262.html</loc>
     
     <lastmod>2020-11-23</lastmod>
@@ -1580,6 +1587,13 @@
   
   <url>
     <loc>https://01btc.com/tags/siduoyazhexue/</loc>
+    <lastmod>2020-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/yidongzhiying/</loc>
     <lastmod>2020-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
