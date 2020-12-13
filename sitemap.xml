@@ -1453,13 +1453,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/duanxianjiaoyi/</loc>
-    <lastmod>2020-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/jiekexunhuoerquanqiuyanghangnianhui/</loc>
     <lastmod>2020-12-13</lastmod>
     <changefreq>daily</changefreq>
@@ -1502,13 +1495,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/wendingyingli/</loc>
-    <lastmod>2020-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/DeFi/</loc>
     <lastmod>2020-12-13</lastmod>
     <changefreq>daily</changefreq>
@@ -1516,7 +1502,21 @@
   </url>
   
   <url>
+    <loc>https://01btc.com/tags/wendingyingli/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://01btc.com/tags/jinrongweiji/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/duanxianjiaoyi/</loc>
     <lastmod>2020-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1544,6 +1544,13 @@
   </url>
   
   <url>
+    <loc>https://01btc.com/tags/niuxiongzhouqi/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://01btc.com/tags/chongdongjiaoyi/</loc>
     <lastmod>2020-12-13</lastmod>
     <changefreq>daily</changefreq>
@@ -1552,13 +1559,6 @@
   
   <url>
     <loc>https://01btc.com/tags/qianjinglilun/</loc>
-    <lastmod>2020-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/niuxiongzhouqi/</loc>
     <lastmod>2020-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
