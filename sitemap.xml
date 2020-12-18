@@ -1831,13 +1831,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/OKex/</loc>
-    <lastmod>2020-12-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/huobi/</loc>
     <lastmod>2020-12-18</lastmod>
     <changefreq>daily</changefreq>
@@ -1853,6 +1846,13 @@
   
   <url>
     <loc>https://01btc.com/tags/btc-jiaoyisuo/</loc>
+    <lastmod>2020-12-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/OKEx/</loc>
     <lastmod>2020-12-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
