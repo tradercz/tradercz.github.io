@@ -1858,6 +1858,13 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://01btc.com/tags/Bitcoin/</loc>
+    <lastmod>2020-12-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
