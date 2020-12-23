@@ -1264,20 +1264,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/zhuliubi/</loc>
-    <lastmod>2020-12-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/shazhupan/</loc>
-    <lastmod>2020-12-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/xingweijingjixue/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
@@ -1293,6 +1279,20 @@
   
   <url>
     <loc>https://01btc.com/tags/youxianzhuyilipiancha/</loc>
+    <lastmod>2020-12-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/zhuliubi/</loc>
+    <lastmod>2020-12-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/shazhupan/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1376,20 +1376,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/maodingxiaoying/</loc>
-    <lastmod>2020-12-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/lujingyilai/</loc>
-    <lastmod>2020-12-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/jiazhitouzi/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
@@ -1418,21 +1404,21 @@
   </url>
   
   <url>
+    <loc>https://01btc.com/tags/maodingxiaoying/</loc>
+    <lastmod>2020-12-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/lujingyilai/</loc>
+    <lastmod>2020-12-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://01btc.com/tags/guoduzixin/</loc>
-    <lastmod>2020-12-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/LINK/</loc>
-    <lastmod>2020-12-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/Zeus-Capital/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1454,6 +1440,20 @@
   
   <url>
     <loc>https://01btc.com/tags/zhengshipiancha/</loc>
+    <lastmod>2020-12-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/LINK/</loc>
+    <lastmod>2020-12-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/Zeus-Capital/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1516,13 +1516,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/meilianchu/</loc>
-    <lastmod>2020-12-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/qianlibi/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
@@ -1538,6 +1531,13 @@
   
   <url>
     <loc>https://01btc.com/tags/jiekexunhuoerquanqiuyanghangnianhui/</loc>
+    <lastmod>2020-12-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/meilianchu/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1579,14 +1579,14 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/DeFi/</loc>
+    <loc>https://01btc.com/tags/wendingyingli/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/wendingyingli/</loc>
+    <loc>https://01btc.com/tags/DeFi/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1726,14 +1726,14 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/dashudinglv/</loc>
+    <loc>https://01btc.com/tags/suijijili/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/suijijili/</loc>
+    <loc>https://01btc.com/tags/dashudinglv/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
