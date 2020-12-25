@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://01btc.com/posts/31780.html</loc>
+    <loc>https://01btc.com/posts/33932.html</loc>
     
     <lastmod>2020-12-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://01btc.com/posts/33932.html</loc>
+    <loc>https://01btc.com/posts/31780.html</loc>
     
-    <lastmod>2020-12-24</lastmod>
+    <lastmod>2020-12-25</lastmod>
     
   </url>
   
@@ -1908,13 +1908,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/bitcoin/</loc>
-    <lastmod>2020-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/jiamihuobi/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
@@ -1937,6 +1930,13 @@
   
   <url>
     <loc>https://01btc.com/tags/nengliquan/</loc>
+    <lastmod>2020-12-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/Bitcoin/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
