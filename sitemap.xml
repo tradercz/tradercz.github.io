@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://01btc.com/posts/44287.html</loc>
+    
+    <lastmod>2021-01-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/posts/34992.html</loc>
+    
+    <lastmod>2021-01-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/posts/56366.html</loc>
+    
+    <lastmod>2021-01-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://01btc.com/posts/20470.html</loc>
     
     <lastmod>2021-01-22</lastmod>
@@ -12,13 +33,6 @@
     <loc>https://01btc.com/posts/41496.html</loc>
     
     <lastmod>2021-01-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/posts/56366.html</loc>
-    
-    <lastmod>2021-01-20</lastmod>
     
   </url>
   
@@ -108,20 +122,6 @@
   
   <url>
     <loc>https://01btc.com/posts/14379.html</loc>
-    
-    <lastmod>2021-01-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/posts/34992.html</loc>
-    
-    <lastmod>2021-01-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/posts/44287.html</loc>
     
     <lastmod>2021-01-13</lastmod>
     
@@ -2224,6 +2224,13 @@
   
   <url>
     <loc>https://01btc.com/tags/difengxianjiaoyi/</loc>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/%E5%A6%82%E4%BD%95%E6%AD%A2%E6%8D%9F/</loc>
     <lastmod>2021-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
