@@ -57,9 +57,9 @@
             
             <tag> 比特币 </tag>
             
-            <tag> ETH </tag>
-            
             <tag> 仓位管理 </tag>
+            
+            <tag> ETH </tag>
             
             <tag> 比特币价格 </tag>
             
@@ -179,11 +179,11 @@
             
             <tag> 比特币 </tag>
             
+            <tag> 比特币价格 </tag>
+            
             <tag> 随机激励 </tag>
             
             <tag> 斯多葛哲学 </tag>
-            
-            <tag> 比特币价格 </tag>
             
         </tags>
       
@@ -1682,6 +1682,8 @@
             
             <tag> BTC </tag>
             
+            <tag> 交易哲学 </tag>
+            
             <tag> 反身性 </tag>
             
         </tags>
@@ -1710,6 +1712,8 @@
             <tag> 比特币行情 </tag>
             
             <tag> BTC </tag>
+            
+            <tag> 交易哲学 </tag>
             
             <tag> 反身性 </tag>
             
@@ -2042,6 +2046,8 @@
             <tag> 比特币行情 </tag>
             
             <tag> BTC </tag>
+            
+            <tag> 交易哲学 </tag>
             
             <tag> 斯多葛主义 </tag>
             
@@ -3782,6 +3788,12 @@
             
             <tag> BTC </tag>
             
+            <tag> 比特币 </tag>
+            
+            <tag> 比特币价格 </tag>
+            
+            <tag> 交易哲学 </tag>
+            
         </tags>
       
     </entry>
@@ -4278,9 +4290,9 @@
             
             <tag> BTC </tag>
             
-            <tag> ETH </tag>
-            
             <tag> 仓位管理 </tag>
+            
+            <tag> ETH </tag>
             
             <tag> 风险管理 </tag>
             
