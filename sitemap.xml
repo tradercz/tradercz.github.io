@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://01btc.com/posts/10870.html</loc>
+    
+    <lastmod>2021-01-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://01btc.com/posts/36278.html</loc>
     
     <lastmod>2021-01-23</lastmod>
@@ -1684,13 +1691,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/shundanixiao/</loc>
-    <lastmod>2021-01-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/maodingxiaoying/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
@@ -1726,6 +1726,13 @@
   </url>
   
   <url>
+    <loc>https://01btc.com/tags/cangweiguanli/</loc>
+    <lastmod>2021-01-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://01btc.com/tags/ziwoguiyinpiancha/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
@@ -1747,28 +1754,21 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/shijianhuankongjian/</loc>
-    <lastmod>2021-01-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/kongjianhuanshijian/</loc>
-    <lastmod>2021-01-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/cangweiguanli/</loc>
-    <lastmod>2021-01-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/ETH/</loc>
+    <lastmod>2021-01-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/shundanixiao/</loc>
+    <lastmod>2021-01-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/CME/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1789,13 +1789,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/CME/</loc>
-    <lastmod>2021-01-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/meilianchu/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
@@ -1803,14 +1796,14 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/qianlibi/</loc>
+    <loc>https://01btc.com/tags/duanxianjiaoyi/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/duanxianjiaoyi/</loc>
+    <loc>https://01btc.com/tags/qianlibi/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1852,6 +1845,20 @@
   </url>
   
   <url>
+    <loc>https://01btc.com/tags/shijianhuankongjian/</loc>
+    <lastmod>2021-01-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/kongjianhuanshijian/</loc>
+    <lastmod>2021-01-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://01btc.com/tags/xinzhizhanghu/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
@@ -1880,13 +1887,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/chongdongjiaoyi/</loc>
-    <lastmod>2021-01-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/qihuo/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
@@ -1902,6 +1902,13 @@
   
   <url>
     <loc>https://01btc.com/tags/jinrongyanshengpin/</loc>
+    <lastmod>2021-01-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/chongdongjiaoyi/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1944,6 +1951,13 @@
   
   <url>
     <loc>https://01btc.com/tags/aokamutidao/</loc>
+    <lastmod>2021-01-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/zijinguanli/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1993,13 +2007,6 @@
   
   <url>
     <loc>https://01btc.com/tags/furensiwei/</loc>
-    <lastmod>2021-01-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/zijinguanli/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
