@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://01btc.com/"/>
-  <updated>2021-01-23T23:29:24.171Z</updated>
+  <updated>2021-01-24T00:49:50.730Z</updated>
   <id>https://01btc.com/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1月24日比特币行情：回测</title>
+    <link href="https://01btc.com/posts/51109.html"/>
+    <id>https://01btc.com/posts/51109.html</id>
+    <published>2021-01-24T00:49:49.000Z</published>
+    <updated>2021-01-24T00:49:50.730Z</updated>
+    
+    <content type="html"><![CDATA[<p>过去24小时，整个市场的交易量1073亿美金，比前一天减少了约500亿，现在是北京时间1月24日的上午08点03分，BTC即时价格31718USDT，下面是具体分析。</p><p>1）下跌后的第一波反弹力度衰竭，接下来可能会对前低进行回测，回测第一目标位31400附近附近，第二目标位30500点附近，第三目标位28800（前低），也就是说，回测是趋势，但回测的点位无法精确的预测。上方压力32500（小时线MA60）和33500（4小时线MA30）。<a id="more"></a>总结一下，总体还是下跌后的盘整修复，短期可能对低点回测。</p><p>2）这是『行为金融学』系列文章的第二篇，我们今天的重点是有效市场假说的局限性。我相信了解一点传统金融学的都听说过有效市场假说，毕竟它是传统金融学最基础的理论，是传统金融学的根。有效市场假说的观点是一切信息都及时、充分、准确的反映在了价格中，也就是说，资产价格总是正确的，它建立在人是理性的以及市场中不存在交易摩擦（可无限套利）这两个基础上的。然而，如果你对BTC的走势有过了解，就明白市场有时候是无效的，否则就不会有2017年牛市的疯狂与312的恐慌了，以上两件事之所以会发生，就是因为人是非理性的以及市场不可能无限套利，这就是有效市场假说的局限性。你看，传统金融学似乎出问题了，怎么办？行为金融学上。行为金融学认为，人是非理性的，这种非理性体现在对信息的收集、加工、输出等各个阶段，这也是我们后面课程的重点。好了，以上就是今天的重点，本来是想直接进入正题的，但思考后还是认为先将前提交代清楚的好，不过你千万不要认为传统金融学就落伍了，还是昨天那句话，传统金融学与行为金融学都在蓬勃的发展，只是行为金融学比较新而已。另外，再告诉你一件有意思的事，2013年的诺贝尔经济学有两人获奖，两人同时得奖不奇怪，奇怪的是这两人提出的观点是完全相反的，其中一位是行为金融学家罗伯特·席勒，他认为市场是可预测的；另一位是传统金融学家尤金·法玛，他的代表性理论是有效市场假说。你看，世界就是这么奇妙，针锋相对或许才更有意思。</p><p>3）操作方面，我已将今天的操作计划分享到了今天的《策略版分析》中，想要参考的请自行查阅。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;过去24小时，整个市场的交易量1073亿美金，比前一天减少了约500亿，现在是北京时间1月24日的上午08点03分，BTC即时价格31718USDT，下面是具体分析。&lt;/p&gt;
+&lt;p&gt;1）下跌后的第一波反弹力度衰竭，接下来可能会对前低进行回测，回测第一目标位31400附近附近，第二目标位30500点附近，第三目标位28800（前低），也就是说，回测是趋势，但回测的点位无法精确的预测。上方压力32500（小时线MA60）和33500（4小时线MA30）。
+    
+    </summary>
+    
+    
+      <category term="行情分析" scheme="https://01btc.com/categories/hangqingfenxi/"/>
+    
+    
+      <category term="比特币行情" scheme="https://01btc.com/tags/bitebihangqing/"/>
+    
+      <category term="比特币" scheme="https://01btc.com/tags/bitebi/"/>
+    
+      <category term="行为金融学" scheme="https://01btc.com/tags/xingweijinrongxue/"/>
+    
+      <category term="比特币价格" scheme="https://01btc.com/tags/bitebijiage/"/>
+    
+      <category term="有效市场假说" scheme="https://01btc.com/tags/youxiaoshichangjiashuo/"/>
+    
+  </entry>
   
   <entry>
     <title>交易哲学专题</title>
@@ -49,17 +81,16 @@
     <link href="https://01btc.com/posts/36278.html"/>
     <id>https://01btc.com/posts/36278.html</id>
     <published>2021-01-23T13:36:49.000Z</published>
-    <updated>2021-01-23T22:40:27.895Z</updated>
+    <updated>2021-01-24T00:52:32.801Z</updated>
     
-    <content type="html"><![CDATA[<p>我最近发现<a href="https://01btc.com/posts/53559.html">圈子里</a>新来的同学大都缺乏基本的交易知识，特别是行为金融学相关知识，于是我打算将这方面的内容编成系列，争取做出一套即系统又简洁的行为金融学教程（据我所知，目前市场上还没有系统的行为金融学课程），方便大家日后查阅，<strong>每篇文章的第“2）”部分就是【行为金融学】的内容</strong>。</p><p>本系列文章会持续更新，如觉得有用请收藏本文。</p><ol><li><a href="https://01btc.com/posts/20718.html#more">初识行为金融学</a></li></ol><a id="more"></a><p>持续更新中…</p>]]></content>
+    <content type="html"><![CDATA[<p>我最近发现<a href="https://01btc.com/posts/53559.html">圈子里</a>新来的同学大都缺乏基本的交易知识，特别是行为金融学相关知识，于是我打算将这方面的内容编成系列，争取做出一套即系统又简洁的行为金融学教程（据我所知，目前市场上还没有系统的行为金融学课程），方便大家日后查阅，<strong>每篇文章的第“2）”部分就是【行为金融学】的内容</strong>。</p><p>本系列文章会持续更新，如觉得有用请收藏本文。</p><ol><li><a href="https://01btc.com/posts/20718.html#more">初识行为金融学</a><a id="more"></a></li><li><a href="https://01btc.com/posts/51109.html#more">有效市场假说的局限性</a></li></ol><p>持续更新中…</p>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;我最近发现&lt;a href=&quot;https://01btc.com/posts/53559.html&quot;&gt;圈子里&lt;/a&gt;新来的同学大都缺乏基本的交易知识，特别是行为金融学相关知识，于是我打算将这方面的内容编成系列，争取做出一套即系统又简洁的行为金融学教程（据我所知，目前市场上还没有系统的行为金融学课程），方便大家日后查阅，&lt;strong&gt;每篇文章的第“2）”部分就是【行为金融学】的内容&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;本系列文章会持续更新，如觉得有用请收藏本文。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;https://01btc.com/posts/20718.html#more&quot;&gt;初识行为金融学&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://01btc.com/posts/20718.html#more&quot;&gt;初识行为金融学&lt;/a&gt;
     
     </summary>
     
@@ -540,9 +571,9 @@
     
       <category term="比特币" scheme="https://01btc.com/tags/bitebi/"/>
     
-      <category term="仓位管理" scheme="https://01btc.com/tags/cangweiguanli/"/>
-    
       <category term="控制幻觉" scheme="https://01btc.com/tags/kongzhihuanjue/"/>
+    
+      <category term="仓位管理" scheme="https://01btc.com/tags/cangweiguanli/"/>
     
       <category term="比特币价格" scheme="https://01btc.com/tags/bitebijiage/"/>
     
@@ -561,34 +592,6 @@
     
       &lt;p&gt;过去24小时，整个市场的交易量1800亿美金，比前一天增加了约150亿，现在是北京时间1月8日的上午08点23分，BTC即时价格39348USDT，下面是具体分析。&lt;/p&gt;
 &lt;p&gt;1）日线继续收阳，上涨趋势没有丝毫减弱的迹象，后市有望继续创新高，但涨多必跌，回调的需求依然存在。细节上，凌晨零点至四点这跟4小时K线是放量十字星，说明分歧出现，有大量筹码在此进行了换手，一般这种情况，上涨的趋势就会暂缓，后市会进入震荡，至于震荡后是上涨还是下跌，就看多空双方的力量谁更强了，个人认为上涨趋势不会就这么轻易被终结。结构上，下方支撑38000附近，第二支撑36500，如果要保持上涨，短期就不能跌破36500。
-    
-    </summary>
-    
-    
-      <category term="行情分析" scheme="https://01btc.com/categories/hangqingfenxi/"/>
-    
-    
-      <category term="比特币行情" scheme="https://01btc.com/tags/bitebihangqing/"/>
-    
-      <category term="比特币" scheme="https://01btc.com/tags/bitebi/"/>
-    
-      <category term="比特币价格" scheme="https://01btc.com/tags/bitebijiage/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>1月7日比特币行情：强势行情及风险提示</title>
-    <link href="https://01btc.com/posts/14379.html"/>
-    <id>https://01btc.com/posts/14379.html</id>
-    <published>2021-01-07T00:32:36.000Z</published>
-    <updated>2021-01-13T06:48:16.652Z</updated>
-    
-    <content type="html"><![CDATA[<p>过去24小时，整个市场的交易量1640亿美金，比前一天增加了约200亿，现在是北京时间1月7日的上午08点18分，BTC即时价格36626USDT，下面是具体分析。</p><p>1）行情没什么可说的，很强势，日线没有加速没有见顶，唯一的风险是涨的太多了，日线偏离平均成本的幅度已经接近2019年6月份的时候，后面究竟会走到哪里只能边走边看了。如果日内遇到小时线加速，记得先出来再说。<a id="more"></a>总结一下，强势行情持续，等待顶部信号即可。</p><p>2）如果你在跟单，突然收到了大V的平仓信号，你平还是不平？如果你定的止损信号是跌破4小时的MA60，当信号出现时，你止损还是不止损？若你是新手，那不用考虑，该平仓平仓该止损止损就好，但若你已经有了一定的交易经验，我想这个问题你已经有自己的答案了，那就是看实际情况再决定。比如4小时EMA20已经破线拐头，说明价格已经跌至这条线以下，短期可能走坏，按说该平仓了，但若现价仍然远高于你的成本，你思考之后决定不平仓，这当然也是可以的。这就是我们今天的要说的话题——不要把交易条件绝对化。再举个例子，在最近这段行情中，如果你还按照之前的方式严格止损，就很可能反复被打止损，毕竟牛市中插一针再马上拉回的情况是很常见的。这时候你就得重新制定你的策略，比如将止损的条件放宽松一些甚至手动止损都可以，也就是说，条件是死的，而人是活的，有时候我们不能太呆板，哪怕这能让我们避免重大损失，但却不利于自我成长。当然，今天的内容可能会误导新手，若你刚刚接触交易，你最好还是要严格止损。还有，我不建议你去跟单，因为这对你并没有太大帮助，甚至还会养成惰性思维，不利于综合能力的提升。</p><p>3）操作方面，我已将今天的操作计划分享到了今天的《策略版分析》中，想要参考的请自行查阅，请点击下方链接查看。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;过去24小时，整个市场的交易量1640亿美金，比前一天增加了约200亿，现在是北京时间1月7日的上午08点18分，BTC即时价格36626USDT，下面是具体分析。&lt;/p&gt;
-&lt;p&gt;1）行情没什么可说的，很强势，日线没有加速没有见顶，唯一的风险是涨的太多了，日线偏离平均成本的幅度已经接近2019年6月份的时候，后面究竟会走到哪里只能边走边看了。如果日内遇到小时线加速，记得先出来再说。
     
     </summary>
     
