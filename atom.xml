@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://01btc.com/"/>
-  <updated>2021-01-31T00:41:41.136Z</updated>
+  <updated>2021-02-01T00:50:39.288Z</updated>
   <id>https://01btc.com/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2月1日比特币行情：下跌风险未解除</title>
+    <link href="https://01btc.com/posts/11051.html"/>
+    <id>https://01btc.com/posts/11051.html</id>
+    <published>2021-02-01T00:49:19.000Z</published>
+    <updated>2021-02-01T00:50:39.288Z</updated>
+    
+    <content type="html"><![CDATA[<p>过去24小时，整个市场的交易量1348亿美金，比前一天减少了100多亿，现在是北京时间2月1日的上午08点20分，BTC即时价格32475USDT，下面是具体分析。</p><p>1）用一个字来描述BTC最近的走势，那就是弱，日线上，继续受30日线的压制，若4天之内无法站上35000点，那么30日线就会掉头向下，届时BTC会在这条线的压制下逐渐走低，这是潜在的隐患，在这之前，只要不跌破1月27日低点29000，就还是震荡行情。4小时线与1小时周期，同样跌破了MA30、MA60与MA120，若无法快速收回，则后市很可能会测试30000点。<a id="more"></a>总结一下，弱。</p><p>2）<strong>我们继续来谈『<a href="https://01btc.com/posts/36278.html">行为金融学</a>』，今天的重点是损失厌恶</strong>。损失厌恶这个词你可能经常听说，它实在是太出名了，按照传统金融学的理论，人们都是不喜欢风险的，但真的是这样吗？别急，先听我说一件事，在牛市中，你是不是很害怕利润回撤？总怕牛市结束？总想着落袋为安？这种心理导致你刚有一点利润就下车，看到涨上去了又去追。而在熊市中呢？由于你已经被套了，你舍不得割肉，结果被套了一整个熊市。我说的对吗？为何会这样呢？行为金融学认为，在盈利和亏损时，人面对风险的态度是不一样的。盈利时害怕风险，于是就会落袋为安，亏损时又喜欢风险，总想着博一把。也就是说，损失厌恶让你在盈利时做出尽量避免损失的决定，又在亏损时难以止损。不过有一种例外你要知道，那就是当你赚钱非常容易时，就会轻视风险，这就是“赌场盈利效应”。币圈有不少人都是通过偶尔的机会（比如合约）赚了大钱，就觉得赚钱太容易了，没有及时离场，最后又都亏光了。你现在知道了损失厌恶，那么有什么方法来克服这种心理吗？有一种方法是不要考虑你现在是盈利了还是亏损了，忘记你的成本价，只根据预期做决策，预期还会涨，就拿着，预期会跌，就卖出，也就是要丢掉对成本价这个参考点的依赖，只向前看，不向后看。</p><p>3）操作方面，我已将今天的操作计划分享到了今天的《策略版分析》中，想要参考的请自行查阅</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;过去24小时，整个市场的交易量1348亿美金，比前一天减少了100多亿，现在是北京时间2月1日的上午08点20分，BTC即时价格32475USDT，下面是具体分析。&lt;/p&gt;
+&lt;p&gt;1）用一个字来描述BTC最近的走势，那就是弱，日线上，继续受30日线的压制，若4天之内无法站上35000点，那么30日线就会掉头向下，届时BTC会在这条线的压制下逐渐走低，这是潜在的隐患，在这之前，只要不跌破1月27日低点29000，就还是震荡行情。4小时线与1小时周期，同样跌破了MA30、MA60与MA120，若无法快速收回，则后市很可能会测试30000点。
+    
+    </summary>
+    
+    
+      <category term="行情分析" scheme="https://01btc.com/categories/hangqingfenxi/"/>
+    
+    
+      <category term="比特币行情" scheme="https://01btc.com/tags/bitebihangqing/"/>
+    
+      <category term="行为金融学" scheme="https://01btc.com/tags/xingweijinrongxue/"/>
+    
+      <category term="损失厌恶" scheme="https://01btc.com/tags/sunshiyanwu/"/>
+    
+      <category term="比特币价格" scheme="https://01btc.com/tags/bitebijiage/"/>
+    
+      <category term="比特币" scheme="https://01btc.com/tags/bitebi/"/>
+    
+  </entry>
   
   <entry>
     <title>1月31日比特币行情：行情未变</title>
@@ -314,9 +346,9 @@
     <link href="https://01btc.com/posts/36278.html"/>
     <id>https://01btc.com/posts/36278.html</id>
     <published>2021-01-23T13:36:49.000Z</published>
-    <updated>2021-01-31T02:19:47.208Z</updated>
+    <updated>2021-02-01T00:51:59.747Z</updated>
     
-    <content type="html"><![CDATA[<p>我最近发现<a href="https://01btc.com/posts/53559.html">圈子里</a>新来的同学大都缺乏基本的交易知识，特别是行为金融学相关知识，于是我打算将这方面的内容编成系列，争取做出一套即系统又简洁的行为金融学教程（据我所知，目前市场上还没有系统的行为金融学课程），方便大家日后查阅，<strong>每篇文章的第“2）”部分就是【行为金融学】的内容</strong>。</p><p>本系列文章会持续更新，如觉得有用请收藏本文。</p><div style="text-align:right;color: #ccc;">概述（带你入门）</div><ol><li><a href="https://01btc.com/posts/20718.html#more">初识行为金融学</a><a id="more"></a></li><li><a href="https://01btc.com/posts/51109.html#more">有效市场假说的局限性</a><div style="text-align:right;color: #ccc;">预期中的偏差（影响认知）</div></li><li><a href="https://01btc.com/posts/28895.html#more">易得性偏差</a></li><li><a href="https://01btc.com/posts/21597.html#more">代表性偏差</a></li><li><a href="https://01btc.com/posts/8718.html#more">过度自信</a></li><li><a href="https://01btc.com/posts/34492.html#more">自我归因</a></li><li><a href="https://01btc.com/posts/4485.html#more">有限注意力偏差</a></li><li><a href="https://01btc.com/posts/5232.html#more">认知失调</a></li><li><a href="https://01btc.com/posts/23652.html#more">锚定效应</a><div style="text-align:right;color: #ccc;">风险偏好中的偏差（影响决策）</div></li><li><a href="https://01btc.com/posts/30957.html#more">参考点依赖</a></li><li>持续更新中…</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>我最近发现<a href="https://01btc.com/posts/53559.html">圈子里</a>新来的同学大都缺乏基本的交易知识，特别是行为金融学相关知识，于是我打算将这方面的内容编成系列，争取做出一套即系统又简洁的行为金融学教程（据我所知，目前市场上还没有系统的行为金融学课程），方便大家日后查阅，<strong>每篇文章的第“2）”部分就是【行为金融学】的内容</strong>。</p><p>本系列文章会持续更新，如觉得有用请收藏本文。</p><div style="text-align:right;color: #ccc;">概述（带你入门）</div><ol><li><a href="https://01btc.com/posts/20718.html#more">初识行为金融学</a><a id="more"></a></li><li><a href="https://01btc.com/posts/51109.html#more">有效市场假说的局限性</a><div style="text-align:right;color: #ccc;">预期中的偏差（影响认知）</div></li><li><a href="https://01btc.com/posts/28895.html#more">易得性偏差</a></li><li><a href="https://01btc.com/posts/21597.html#more">代表性偏差</a></li><li><a href="https://01btc.com/posts/8718.html#more">过度自信</a></li><li><a href="https://01btc.com/posts/34492.html#more">自我归因</a></li><li><a href="https://01btc.com/posts/4485.html#more">有限注意力偏差</a></li><li><a href="https://01btc.com/posts/5232.html#more">认知失调</a></li><li><a href="https://01btc.com/posts/23652.html#more">锚定效应</a><div style="text-align:right;color: #ccc;">风险偏好中的偏差（影响决策）</div></li><li><a href="https://01btc.com/posts/30957.html#more">参考点依赖</a></li><li><a href="https://01btc.com/posts/11051.html#more">损失厌恶</a></li><li>持续更新中…</li></ol>]]></content>
     
     <summary type="html">
     
@@ -592,34 +624,6 @@
     
       &lt;p&gt;过去24小时，整个市场的交易量1328亿美金，几乎与前一天持平，现在是北京时间1月15日的上午08点22分，BTC即时价格39418USDT，下面是具体分析。&lt;/p&gt;
 &lt;p&gt;1）比特币再一次接近了前高，那么接下来冲击前高就是水到渠成的事，至于能否成功，咱们拭目以待。结构上，下方支撑38000，上方压力40700附近（筹码密集区），突破了40700，冲击前高的概率就会增加，大家可以关注该点位的得失。链上数据方面，大户趁着这次大跌在加仓，部分矿工和散户在抛售，这对长期走势是个利好。
-    
-    </summary>
-    
-    
-      <category term="行情分析" scheme="https://01btc.com/categories/hangqingfenxi/"/>
-    
-    
-      <category term="比特币行情" scheme="https://01btc.com/tags/bitebihangqing/"/>
-    
-      <category term="比特币价格" scheme="https://01btc.com/tags/bitebijiage/"/>
-    
-      <category term="比特币" scheme="https://01btc.com/tags/bitebi/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>1月14日比特币行情：一个有利于多头的信号出现</title>
-    <link href="https://01btc.com/posts/60537.html"/>
-    <id>https://01btc.com/posts/60537.html</id>
-    <published>2021-01-14T00:56:12.000Z</published>
-    <updated>2021-01-14T03:46:16.639Z</updated>
-    
-    <content type="html"><![CDATA[<p>过去24小时，整个市场的交易量1322亿美金，比前一天增加了100多亿，现在是北京时间1月14日的上午08点21分，BTC即时价格37988USDT，下面是具体分析。</p><p>1）<a href="https://01btc.com/posts/36336.html">与昨天相比</a>，短期行情已经发生了明显变化，在凌晨2点上涨前，有大量的稳定币流入了交易所，结果也很明显，BTC很快便站上了36000点，这是仅次于38000的重要压力位，预示着上涨行情再次来袭。结构上方，上方压力38000-38500区间，下方支撑36500-37000。接下来比特币大概率会冲击38000，一旦站稳38000-38500区间，就可认为下跌结束，新的一波上涨开始。<a id="more"></a>总结一下，行情要比我们预计的走的快，且趋势越来越有利于多头，接下来重点关注38000-38500区间突破情况。</p><p>2）在做每一笔交易之前，如果你都能回答自己下面3个问题，那么这笔交易成功的概率就会大大增加，这3个问题分别是你为什么要做这笔交易、这笔交易的预期是什么以及这笔交易的底线在哪里，这就是交易三问。为什么要做这笔交易是交易三问的核心，有同学不以为然，他们甚至从没有考虑过这个问题，他们最喜欢的是凭感觉交易。我最常听到的回答是我觉得要涨于是就买入了，你要明白的是，感觉是最不靠谱的事。搞清楚了为什么做交易后，就要确定这笔交易的底线了，也就是发生什么样的事情后就要止损了，这个问题是最容易被散户忽略的，很多人喜欢追高买，买了后就幻想着马上盈利，一旦现实与预期不符就懵了，到处找人问该怎么办，其实这个时候你最应该问的是你自己。最后是交易的预期，很多同学对这个问题没概念，然而搞清楚了这个问题，在行情大涨时可以很好的克服人性的贪婪，新手最喜欢在该走的时候开始加码，大都是没有将预期搞清楚的原因。对于没有太多交易经验的同学来说，这3个问题并不容易回答，但我还是希望你能在每次交易之前都试着思考它们，毕竟善于思考的人在很多时候是不需要答案的，在经过一段时间的训练后，你就会发现你的交易水平已经在不知不觉中提升了。</p><p>3）操作方面，我已将今天的操作计划分享到了今天的《策略版分析》中，想要参考的请自行查阅，请点击下方链接查看。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;过去24小时，整个市场的交易量1322亿美金，比前一天增加了100多亿，现在是北京时间1月14日的上午08点21分，BTC即时价格37988USDT，下面是具体分析。&lt;/p&gt;
-&lt;p&gt;1）&lt;a href=&quot;https://01btc.com/posts/36336.html&quot;&gt;与昨天相比&lt;/a&gt;，短期行情已经发生了明显变化，在凌晨2点上涨前，有大量的稳定币流入了交易所，结果也很明显，BTC很快便站上了36000点，这是仅次于38000的重要压力位，预示着上涨行情再次来袭。结构上方，上方压力38000-38500区间，下方支撑36500-37000。接下来比特币大概率会冲击38000，一旦站稳38000-38500区间，就可认为下跌结束，新的一波上涨开始。
     
     </summary>
     
