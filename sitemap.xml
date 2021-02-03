@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://01btc.com/posts/36278.html</loc>
+    
+    <lastmod>2021-02-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://01btc.com/posts/58622.html</loc>
     
     <lastmod>2021-02-03</lastmod>
@@ -17,13 +24,6 @@
   
   <url>
     <loc>https://01btc.com/posts/41496.html</loc>
-    
-    <lastmod>2021-02-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/posts/36278.html</loc>
     
     <lastmod>2021-02-02</lastmod>
     
@@ -1565,13 +1565,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/jiaoyicelue/</loc>
-    <lastmod>2021-02-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/xingweijingjixue/</loc>
     <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
@@ -1601,6 +1594,13 @@
   
   <url>
     <loc>https://01btc.com/tags/shazhupan/</loc>
+    <lastmod>2021-02-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/jiaoyicelue/</loc>
     <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1684,6 +1684,13 @@
   </url>
   
   <url>
+    <loc>https://01btc.com/tags/shundanixiao/</loc>
+    <lastmod>2021-02-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://01btc.com/tags/jiazhitouzi/</loc>
     <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
@@ -1705,7 +1712,7 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/shundanixiao/</loc>
+    <loc>https://01btc.com/tags/guoduzixin/</loc>
     <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1726,7 +1733,14 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/guoduzixin/</loc>
+    <loc>https://01btc.com/tags/LINK/</loc>
+    <lastmod>2021-02-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/Zeus-Capital/</loc>
     <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1804,13 +1818,6 @@
   
   <url>
     <loc>https://01btc.com/tags/CME/</loc>
-    <lastmod>2021-02-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/LINK/</loc>
     <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1895,13 +1902,6 @@
   
   <url>
     <loc>https://01btc.com/tags/jinrongweiji/</loc>
-    <lastmod>2021-02-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/Zeus-Capital/</loc>
     <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -2342,6 +2342,13 @@
   </url>
   
   <url>
+    <loc>https://01btc.com/tags/xinlizhanghu/</loc>
+    <lastmod>2021-02-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://01btc.com/tags/jishufenxi/</loc>
     <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
@@ -2385,13 +2392,6 @@
   
   <url>
     <loc>https://01btc.com/tags/jiamihuobi/</loc>
-    <lastmod>2021-02-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/xinlizhanghu/</loc>
     <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
