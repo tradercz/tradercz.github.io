@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://01btc.com/"/>
-  <updated>2021-02-04T01:03:21.795Z</updated>
+  <updated>2021-02-05T00:39:38.921Z</updated>
   <id>https://01btc.com/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2月5日比特币行情：小回调</title>
+    <link href="https://01btc.com/posts/52894.html"/>
+    <id>https://01btc.com/posts/52894.html</id>
+    <published>2021-02-05T00:39:37.000Z</published>
+    <updated>2021-02-05T00:39:38.921Z</updated>
+    
+    <content type="html"><![CDATA[<p>过去24小时，整个市场的交易量1718亿美金，比前一天增加了约300亿，现在是北京时间2月5日的上午08点20分，BTC即时价格37105USDT，下面是具体分析。</p><p>1）BTC没有站上38500，目前正处于小周期的回调之中，要想保持多头趋势，这次回调不能跌破35000点。结构上，下方支撑36000、35000点，上方压力38500、40000点。从1小时周期来看，已经回调至MA60附近，如果是强势行情，到这里应该会止跌回升，反过来说，若跌破1小时MA60，则会测试35000点处的支撑。<a id="more"></a>总结一下，目前看仅是小回调。</p><p>2）<strong>我们继续谈『<a href="https://01btc.com/posts/36278.html">行为金融学</a>』，今天的重点是羊群效应</strong>。提起羊群效应这个词，你一定不陌生，它指的是人都有从众的心理和行为。你需要明白的是，羊群效应是一种社会现象，产生它的原因可能是理性的，也可能是非理性的，它是信息瀑布的一种（至于什么是信息瀑布，你可以回去看咱们<a href="https://01btc.com/posts/17439.html">2020年12月1日的文章</a>）。下面我们分别举例说明羊群效应对金融市场的影响。关于币市中理性的羊群效应的例子，灰度基金是一个，当灰度注册某个币的基金后，人们就会更加关注这个币，就可能更加容易挖掘到该币的价值。那么非理性的羊群效应呢？会容易造成资产泡沫，特别是在牛市中， 乐观的预期促使散户蜂拥而至，很快便会将币价推升很高，一旦下跌，又会很快将币价快速下杀，造成期货爆仓，这也是牛市中的回调大都能在很短的时间内完成的原因。那么针对这两种羊群效应，我们应该如何做策略呢？一是要重点关注灰度币，二是在大家恐慌的布局，在别人乐观的时候谨慎追涨。关于第二点，我特别有感触，最近的每次回调，都有不少人来问我要不要卖，而上涨时，更多的人会来问能不能买，你看，这就是典型的羊群效应。殊不知正确的做法应该是在下跌期间布局，在上涨阶段持有和卖出。比如最近的这次回调，在很多人的心中，下跌幅度还是挺大的，于是就更容易卖出标的，而我给圈子中同学的建议以及我自己的实际操作都是在下跌期间持续布局，在上升阶段持币不动，伺机卖出。</p><p>3）操作方面，我已将今天的操作计划分享到了今天的<strong>《<a href="https://01btc.com/posts/53559.html">策略版分析</a>》</strong>中，想要参考的请自行查阅。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;过去24小时，整个市场的交易量1718亿美金，比前一天增加了约300亿，现在是北京时间2月5日的上午08点20分，BTC即时价格37105USDT，下面是具体分析。&lt;/p&gt;
+&lt;p&gt;1）BTC没有站上38500，目前正处于小周期的回调之中，要想保持多头趋势，这次回调不能跌破35000点。结构上，下方支撑36000、35000点，上方压力38500、40000点。从1小时周期来看，已经回调至MA60附近，如果是强势行情，到这里应该会止跌回升，反过来说，若跌破1小时MA60，则会测试35000点处的支撑。
+    
+    </summary>
+    
+    
+      <category term="行情分析" scheme="https://01btc.com/categories/hangqingfenxi/"/>
+    
+    
+      <category term="比特币行情" scheme="https://01btc.com/tags/bitebihangqing/"/>
+    
+      <category term="比特币价格" scheme="https://01btc.com/tags/bitebijiage/"/>
+    
+      <category term="比特币" scheme="https://01btc.com/tags/bitebi/"/>
+    
+      <category term="信息瀑布" scheme="https://01btc.com/tags/xinxipubu/"/>
+    
+      <category term="羊群效应" scheme="https://01btc.com/tags/yangqunxiaoying/"/>
+    
+  </entry>
   
   <entry>
     <title>2月4日比特币行情：离4开头的BTC不远了</title>
@@ -459,9 +491,9 @@
     <link href="https://01btc.com/posts/36278.html"/>
     <id>https://01btc.com/posts/36278.html</id>
     <published>2021-01-23T13:36:49.000Z</published>
-    <updated>2021-02-04T21:04:55.484Z</updated>
+    <updated>2021-02-05T00:46:02.550Z</updated>
     
-    <content type="html"><![CDATA[<p>我最近发现<a href="https://01btc.com/posts/53559.html">圈子里</a>新来的同学大都缺乏基本的交易知识，特别是行为金融学相关知识，于是我打算将这方面的内容编成系列，争取做出一套即系统又简洁的行为金融学教程（据我所知，目前市场上还没有系统的行为金融学课程），方便大家日后查阅，<strong>每篇文章的第“2）”部分就是【行为金融学】的内容</strong>。</p><p><strong>温馨提示</strong>：行为金融学与<a href="https://01btc.com/posts/10870.html">交易哲学</a>相结合，效果更佳。</p><p>本系列文章会持续更新，如觉得有用请收藏本文。</p><div style="text-align:right;color: #ccc;">概述（带你入门）</div><ol><li><a href="https://01btc.com/posts/20718.html#more">初识行为金融学</a><a id="more"></a></li><li><a href="https://01btc.com/posts/51109.html#more">有效市场假说的局限性</a><div style="text-align:right;color: #ccc;">预期中的偏差（影响认知）</div></li><li><a href="https://01btc.com/posts/28895.html#more">易得性偏差</a></li><li><a href="https://01btc.com/posts/21597.html#more">代表性偏差</a></li><li><a href="https://01btc.com/posts/8718.html#more">过度自信</a></li><li><a href="https://01btc.com/posts/34492.html#more">自我归因</a></li><li><a href="https://01btc.com/posts/4485.html#more">有限注意力偏差</a></li><li><a href="https://01btc.com/posts/5232.html#more">认知失调</a></li><li><a href="https://01btc.com/posts/23652.html#more">锚定效应</a><div style="text-align:right;color: #ccc;">风险偏好中的偏差（影响决策）</div></li><li><a href="https://01btc.com/posts/30957.html#more">参考点依赖</a></li><li><a href="https://01btc.com/posts/11051.html#more">损失厌恶</a></li><li><a href="https://01btc.com/posts/54208.html#more">决策权重理论</a></li><li><a href="https://01btc.com/posts/58622.html#more">心理账户理论</a></li><li><a href="https://01btc.com/posts/47397.html#more">狭隘框架理论</a></li><li>持续更新中…</li></ol><p><strong>以下内容摘自<a href="https://baike.baidu.com/item/行为金融学/58795?fr=01btc.com">百度百科</a>：</strong></p><p>行为金融学从微观个体行为以及产生这种行为的心理等动因来解释、研究和预测金融市场的发展。这一研究视角通过分析金融市场主体在市场行为中的偏差和反常，来寻求不同市场主体在不同环境下的经营理念及决策行为特征，力求建立一种能正确反映市场主体实际决策行为和市场运行状况的描述性模型。</p><p>行为金融学虽然试图深挖金融市场运作背后的奥秘，<strong>但并不系统也不透彻，因此现今成型的行为金融学模型还不多，研究的重点还停留在对市场异常和认知偏差的定性描述和历史观察上</strong>，以及鉴别可能对金融市场行为有系统影响的行为决策属性。究其原因，也许就像指数基金教父约翰·博格尔所说的那样：“在这个行业里摸爬滚打了55年，我依然对如何预测投资者的心理一无所知。”</p><p>值得指出的是，人类对于股市波动规律的认知，是一个极具挑战性的世界级难题。迄今为止，尚没有任何一种理论和方法能够令人信服并且经得起时间检验——2000年，行为金融学理论创始人之一、耶鲁大学经济学教授罗伯特·席勒在《非理性繁荣》一书中指出：“我们应当牢记，股市定价并未形成一门完美的科学”；2013年，瑞典皇家科学院在授予罗伯特·席勒等人该年度诺贝尔经济学奖时指出：几乎没什么方法能准确预测未来几天或几周股市债市的走向，但也许可以通过研究对三年以上的价格进行预测。</p><p>当前，有关金融资产定价和股票市场波动逻辑的代表性理论，主要有如下几种：凯恩斯选美论、随机漫步理论、现代资产组合理论(MPT)、有效市场假说（EMH）、行为金融学（BF）等。</p>]]></content>
+    <content type="html"><![CDATA[<p>我最近发现<a href="https://01btc.com/posts/53559.html">圈子里</a>新来的同学大都缺乏基本的交易知识，特别是行为金融学相关知识，于是我打算将这方面的内容编成系列，争取做出一套即系统又简洁的行为金融学教程（据我所知，目前市场上还没有系统的行为金融学课程），方便大家日后查阅，<strong>每篇文章的第“2）”部分就是【行为金融学】的内容</strong>。</p><p><strong>温馨提示</strong>：行为金融学与<a href="https://01btc.com/posts/10870.html">交易哲学</a>相结合，效果更佳。</p><p>本系列文章会持续更新，如觉得有用请收藏本文。</p><div style="text-align:right;color: #ccc;">概述（带你入门）</div><ol><li><a href="https://01btc.com/posts/20718.html#more">初识行为金融学</a><a id="more"></a></li><li><a href="https://01btc.com/posts/51109.html#more">有效市场假说的局限性</a><div style="text-align:right;color: #ccc;">预期中的偏差（影响认知）</div></li><li><a href="https://01btc.com/posts/28895.html#more">易得性偏差</a></li><li><a href="https://01btc.com/posts/21597.html#more">代表性偏差</a></li><li><a href="https://01btc.com/posts/8718.html#more">过度自信</a></li><li><a href="https://01btc.com/posts/34492.html#more">自我归因</a></li><li><a href="https://01btc.com/posts/4485.html#more">有限注意力偏差</a></li><li><a href="https://01btc.com/posts/5232.html#more">认知失调</a></li><li><a href="https://01btc.com/posts/23652.html#more">锚定效应</a><div style="text-align:right;color: #ccc;">风险偏好中的偏差（影响决策）</div></li><li><a href="https://01btc.com/posts/30957.html#more">参考点依赖</a></li><li><a href="https://01btc.com/posts/11051.html#more">损失厌恶</a></li><li><a href="https://01btc.com/posts/54208.html#more">决策权重理论</a></li><li><a href="https://01btc.com/posts/58622.html#more">心理账户理论</a></li><li><a href="https://01btc.com/posts/47397.html#more">狭隘框架理论</a></li><li><a href="https://01btc.com/posts/52894.html#more">羊群效应</a></li><li>持续更新中…</li></ol><p><strong>以下内容摘自<a href="https://baike.baidu.com/item/行为金融学/58795?fr=01btc.com">百度百科</a>：</strong></p><p>行为金融学从微观个体行为以及产生这种行为的心理等动因来解释、研究和预测金融市场的发展。这一研究视角通过分析金融市场主体在市场行为中的偏差和反常，来寻求不同市场主体在不同环境下的经营理念及决策行为特征，力求建立一种能正确反映市场主体实际决策行为和市场运行状况的描述性模型。</p><p>行为金融学虽然试图深挖金融市场运作背后的奥秘，<strong>但并不系统也不透彻，因此现今成型的行为金融学模型还不多，研究的重点还停留在对市场异常和认知偏差的定性描述和历史观察上</strong>，以及鉴别可能对金融市场行为有系统影响的行为决策属性。究其原因，也许就像指数基金教父约翰·博格尔所说的那样：“在这个行业里摸爬滚打了55年，我依然对如何预测投资者的心理一无所知。”</p><p>值得指出的是，人类对于股市波动规律的认知，是一个极具挑战性的世界级难题。迄今为止，尚没有任何一种理论和方法能够令人信服并且经得起时间检验——2000年，行为金融学理论创始人之一、耶鲁大学经济学教授罗伯特·席勒在《非理性繁荣》一书中指出：“我们应当牢记，股市定价并未形成一门完美的科学”；2013年，瑞典皇家科学院在授予罗伯特·席勒等人该年度诺贝尔经济学奖时指出：几乎没什么方法能准确预测未来几天或几周股市债市的走向，但也许可以通过研究对三年以上的价格进行预测。</p><p>当前，有关金融资产定价和股票市场波动逻辑的代表性理论，主要有如下几种：凯恩斯选美论、随机漫步理论、现代资产组合理论(MPT)、有效市场假说（EMH）、行为金融学（BF）等。</p>]]></content>
     
     <summary type="html">
     
@@ -620,34 +652,6 @@
     
       &lt;p&gt;过去24小时，整个市场的交易量1101亿美金，比前一天减少了100多亿，现在是北京时间1月19日的上午08点38分，BTC即时价格36545USDT，下面是具体分析。&lt;/p&gt;
 &lt;p&gt;1）比特币继续高位震荡，4小时MA30、MA60与MA90已经由发散走向聚集，若短期内想要走高，必须尽快站上37000点，若持续在37000点下方运行，后市则可能会重新测试30日线32000点甚至更低，站上38000-38500点可视为震荡行情结束。
-    
-    </summary>
-    
-    
-      <category term="行情分析" scheme="https://01btc.com/categories/hangqingfenxi/"/>
-    
-    
-      <category term="比特币行情" scheme="https://01btc.com/tags/bitebihangqing/"/>
-    
-      <category term="比特币价格" scheme="https://01btc.com/tags/bitebijiage/"/>
-    
-      <category term="比特币" scheme="https://01btc.com/tags/bitebi/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>1月18日比特币行情：后市砸盘的概率已大幅降低</title>
-    <link href="https://01btc.com/posts/32281.html"/>
-    <id>https://01btc.com/posts/32281.html</id>
-    <published>2021-01-18T00:22:49.000Z</published>
-    <updated>2021-01-18T00:22:50.017Z</updated>
-    
-    <content type="html"><![CDATA[<p>过去24小时，整个市场的交易量1219亿美金，比前一天减少了100多亿，现在是北京时间1月18日的上午08点00分，BTC即时价格35888USDT，下面是具体分析。</p><p>1）行情方面没有太多可说的，还是震荡行情，唯一值得注意的是，链上数据表明转入交易所的币在持续减少，后市砸盘的风险也就大幅下降，震荡洗盘后走高是大概率的。结构上，下方支撑34000，上方压力36800点。<a id="more"></a>总结一下，依然是震荡行情，但后市砸盘的概率已经大幅降低。</p><p>2）牛市中存在一个现象，那就是新手似乎总比老韭菜赚的多，这在传统股市中叫新手运气，咱们今天就来谈谈这个话题。首先是新手运气产生的原因，其实很简单，牛市中随便买都能挣钱，胆子越大挣的越多，老韭菜带有熊市印记，更注重风险，往往会比新手更加保守，也就是说，新手与老韭菜相比，是在用高风险换更高的收益。然后你还需要了解两个事实，一是新手运气并不是对所有新手都有效，大量的新手刚开始就会亏钱，二是很多新手在牛市中挣的很多钱，不懂得及时退出，到了熊市都成倍的还给了市场。因此，如果你是新手，你一定要注意以下几点：一、新手挣钱不是因为自己牛，而是因为运气好。二、越是到牛市后期，越要向有穿越牛熊经验的老韭菜学习。最后，我们用一个佛教的观念来总结今天的核心内容，机和缘。所谓缘，就是有潜在的命定性和可能性的东西。而机则代表偶然性，也就是运气，这两者碰在一起就叫机缘，有了机缘才能成事。对于最近入场的新手来说，牛市处处都有机会，这就有了足够多的机，你需要再找到缘就能成功，那么如何找缘呢？抓紧时间提升自己的认知和交易水平吧，这就是缘。</p><p>3）操作方面，我已将今天的操作计划分享到了今天的《策略版分析》中，想要参考的请自行查阅，请点击下方链接查看。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;过去24小时，整个市场的交易量1219亿美金，比前一天减少了100多亿，现在是北京时间1月18日的上午08点00分，BTC即时价格35888USDT，下面是具体分析。&lt;/p&gt;
-&lt;p&gt;1）行情方面没有太多可说的，还是震荡行情，唯一值得注意的是，链上数据表明转入交易所的币在持续减少，后市砸盘的风险也就大幅下降，震荡洗盘后走高是大概率的。结构上，下方支撑34000，上方压力36800点。
     
     </summary>
     
