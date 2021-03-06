@@ -3260,6 +3260,7 @@ body {
   line-height: 1.57143;
   color: #333333;
   background-color: #fff;
+  line-height: 200%
 }
 
 a {
@@ -5775,7 +5776,7 @@ body.no-sidebar .sidebar {
 #name {
   font-size: 18px;
   margin-top: 10px;
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 
 #title {
@@ -6439,7 +6440,7 @@ body.no-sidebar .sidebar {
 }
 
 .article-list .article-title {
-  font-size: 18px;
+  font-size: 26px;
 }
 
 .article-toc .toc-title {
