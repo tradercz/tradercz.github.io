@@ -260,7 +260,7 @@ th {
 }
 
 html {
-  font-size: 10px;
+  font-size: 15px;
   -webkit-tap-highlight-color: transparent;
 }
 
@@ -475,12 +475,12 @@ h4,
 
 h5,
 .h5 {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 h6,
 .h6 {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 p {
@@ -1107,7 +1107,7 @@ address {
   border: 1px solid transparent;
   white-space: nowrap;
   padding: 6px 12px;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.57143;
   border-radius: 4px;
   -webkit-user-select: none;
@@ -3256,7 +3256,7 @@ body {
 body {
   padding-right: 0 !important;
   font-family: "PingHei","PingFang SC",Helvetica Neue,"Work Sans","Hiragino Sans GB","Microsoft YaHei",SimSun,sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.57143;
   color: #333333;
   background-color: #fff;
