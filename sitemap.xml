@@ -1957,20 +1957,6 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/shijianhuankongjian/</loc>
-    <lastmod>2021-03-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://01btc.com/tags/kongjianhuanshijian/</loc>
-    <lastmod>2021-03-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://01btc.com/tags/ziwoguiyinpiancha/</loc>
     <lastmod>2021-03-07</lastmod>
     <changefreq>daily</changefreq>
@@ -1986,6 +1972,20 @@
   
   <url>
     <loc>https://01btc.com/tags/zhengshipiancha/</loc>
+    <lastmod>2021-03-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/shijianhuankongjian/</loc>
+    <lastmod>2021-03-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://01btc.com/tags/kongjianhuanshijian/</loc>
     <lastmod>2021-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -2489,14 +2489,14 @@
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/pinfanjiaoyi/</loc>
+    <loc>https://01btc.com/tags/yidexingpiancha/</loc>
     <lastmod>2021-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://01btc.com/tags/yidexingpiancha/</loc>
+    <loc>https://01btc.com/tags/pinfanjiaoyi/</loc>
     <lastmod>2021-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
