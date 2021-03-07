@@ -5969,6 +5969,7 @@ body.no-sidebar .sidebar {
 .widget .widget-title {
   font-size: 18px;
   color: #000;
+  text-align: center;
 }
 
 .widget time {
