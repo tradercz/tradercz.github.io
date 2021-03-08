@@ -1814,6 +1814,7 @@ tbody.collapse.in {
   position: relative;
   display: table;
   border-collapse: separate;
+ 
 }
 
 .input-group[class*="col-"] {
@@ -8796,6 +8797,7 @@ body.okayNav-loaded {
   .sidebar-form {
     border: 0;
     margin: 9px 45px 9px 0;
+    margin-top: 17px;
   }
 
   .sidebar-form .input-group-btn .btn {
@@ -8813,7 +8815,7 @@ body.okayNav-loaded {
 
   .header .navbar-toggle {
     position: absolute;
-    top: 0;
+    top: 10px;
     right: 0;
     margin-right: 5px;
   }
@@ -8823,7 +8825,7 @@ body.okayNav-loaded {
   }
 
   .header .search {
-    width: 90%;
+    width: 85%;
     float: right;
   }
 
@@ -8835,8 +8837,8 @@ body.okayNav-loaded {
   }
 
   .header #avatar {
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
   }
 
   .header #name,
@@ -9212,3 +9214,5 @@ body.okayNav-loaded {
     max-height: 200px;
   }
 }
+
+
