@@ -6101,6 +6101,7 @@ body.no-sidebar .sidebar {
   white-space: nowrap;
   vertical-align: baseline;
   border-radius: .25em;
+  font-weight: 300;
 }
 
 .bar .pager .next > a,
