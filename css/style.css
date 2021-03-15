@@ -30,6 +30,7 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  -webkit-transform: scale(0.8);
 }
 
 body {
