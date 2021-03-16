@@ -46,6 +46,7 @@
 <meta name="generator" content="Hexo 5.2.0"></head>
 
 
+<script src="/js/hexo_resize_image.js"></script>
 <body class="main-center" itemscope itemtype="http://schema.org/WebPage">
   <header class="header" itemscope itemtype="http://schema.org/WPHeader">
   <div class="slimContent">
@@ -483,8 +484,7 @@
   
   <div class="article-entry text-muted" itemprop="description">
     <p>我希望将『讨论组』打造成一个独特、稀缺又有趣的交流区。</p>
-<div style="margin-bottom:20px;"><img style="display: block; margin: 0 auto;" src="/images/taolunzu/taolunzu.jpg" /></div>
-
+<p><img src="/images/taolunzu/taolunzu.jpg" alt=""></p>
 <h4 id="1-讨论组是什么？"><a href="#1-讨论组是什么？" class="headerlink" title="1.讨论组是什么？"></a>1.讨论组是什么？</h4><p>讨论组是专门为<a href="/posts/53559.html">VIP会员</a>提供交流的地方，在讨论组里你可以非常方便的查询、收藏、共享资料及讨论问题，这些资料将永久保存，
   </div>
   
@@ -993,6 +993,42 @@ var _hmt = _hmt || [];
 })();
 </script>
 
+
+
+
+<div id="go-top"></div>
+<style type="text/css">
+#go-top {
+ width:40px;height:40px;
+ background-color:#539cd5;
+ position:relative;
+ border-radius:20px;
+ position:fixed;right:20px;bottom:50px;
+ cursor:pointer;display:none;
+}
+#go-top:after {
+ content:" ";
+ position:absolute;left:14px;top:14px;
+ border-top:2px solid #fff;border-right:2px solid #fff;
+ width:12px;height:12px;
+ transform:rotate(-45deg);
+}
+#go-top:hover {
+ background-color:#2196f3;
+}
+</style>
+<script>
+$(function () {
+  var top=$("#go-top");
+  $(window).scroll(function () {
+    ($(window).scrollTop() > 300) ? top.show(300) : top.hide(200);
+    $("#go-top").click(function () {
+      $('body,html').animate({scrollTop:0});
+      return false();
+    })
+  });
+});
+</script>
 
 
 </body>
