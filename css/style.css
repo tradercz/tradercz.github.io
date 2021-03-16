@@ -5778,6 +5778,8 @@ body.no-sidebar .sidebar {
   width: 100%;
   max-height: 100%;
   height: auto !important;
+  display: inherit;
+  padding: 0px;
 }
 
 #name {
