@@ -8604,7 +8604,7 @@ body.okayNav-loaded {
   .navbar-nav .open .dropdown-menu {
     position: static;
     float: none;
-    width: 100%;
+    width: auto;
     margin-top: 0;
     background-color: transparent;
     border: 0;
