@@ -31,6 +31,10 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
+element.style {
+  margin-right: 0px;
+}
+
 body {
   margin: 0;
 }
