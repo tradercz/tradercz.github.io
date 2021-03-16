@@ -3248,8 +3248,8 @@ button.close {
 *,
 *:before,
 *:after {
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html,

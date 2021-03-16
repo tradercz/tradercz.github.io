@@ -62,8 +62,8 @@ $(function() {
   var menuHighlight = $("ul.main-nav").hasClass('menu-highlight');
   if (menuHighlight) {
     var currentPathname = location.pathname,
-      $menuList = $("ul.main-nav>li"),
-      activeIndex = -1;
+        $menuList = $("ul.main-nav>li"),
+        activeIndex = -1;
     for (var i = 0, length = $menuList.length; i < length; i++) {
       var itemHref = $($menuList[i]).find('a').attr('href');
       if (currentPathname.indexOf(itemHref) > -1 ||
