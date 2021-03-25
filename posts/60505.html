@@ -36,7 +36,7 @@
     <link rel="alternate" href="/atom.xml" title="01BTC" type="application/atom+xml">
   
   
-    <link rel="icon" href="https://01btc.com/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
   
   
 <link rel="stylesheet" href="/css/style.css">
@@ -243,27 +243,49 @@
       
 <style>
 
-.copyright-link {
-   
-    margin: 0 auto;
+.wp-block-buttons.is-content-justification-center {
+    justify-content: center;
+}
+.wp-block-buttons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.wp-block-buttons>.wp-block-button:last-child {
+    margin-right: 0;
+}
+.wp-block-buttons>.wp-block-button {
+    display: inline-block;
+    margin-left: 0;
+    margin-right: .5em;
+    margin-bottom: .5em;
+}
+.is-style-shadow .wp-block-button__link {
+    box-shadow: 0 4px 6px rgb(0 0 0 / 11%), 0 1px 3px rgb(0 0 0 / 8%);
+}
+:root .has-luminous-vivid-amber-color {
+    color: #fcb900;
+}
+.wp-block-button__link {
+    color: #fff;
+    background-color: #32373c;
+    border-radius: 9999px;
+    box-shadow: none;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.125em;
+    padding: calc(.467em + 2px) calc(1.333em + 2px);
     text-align: center;
-}
-
-.copyright-link a {
-    color: #2196f3;
     text-decoration: none;
-}
-
-.copyright-link a:focus,
-.copyright-link a:hover {
-  color: #0a6ebd;
-  text-decoration: none;
+    overflow-wrap: break-word;
 }
 
 </style>
   
        
-<p class="copyright-link"><a href="/posts/30827.html">加入讨论组，得赚钱秘诀</a></p>
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-shadow"><a class="wp-block-button__link has-luminous-vivid-amber-color has-yellow-background-color has-text-color has-background" href="/posts/53559.html"><strong>加入会员</strong></a></div>
+</div>
   
 
 
